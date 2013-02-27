@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts
+END
+ComplexNodeEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts/ComplexNodeEditPart.java
+END
+GraphEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts/GraphEditPart.java
+END
+EdgeEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts/EdgeEditPart.java
+END
+PartFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts/PartFactory.java
+END
+GraphLayoutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts/GraphLayoutManager.java
+END
+SimpleNodeEditPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/graph/editparts/SimpleNodeEditPart.java
+END

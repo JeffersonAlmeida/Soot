@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/examples
+END
+AnnotateClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/examples/AnnotateClass.java
+END
+CreateSootClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/examples/CreateSootClass.java
+END
+BodyTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/examples/BodyTransformer.java
+END
+GotoInstrumenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/examples/GotoInstrumenter.java
+END

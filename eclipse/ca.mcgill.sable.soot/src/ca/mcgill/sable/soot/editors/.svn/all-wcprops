@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors
+END
+IJimpleColorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/IJimpleColorConstants.java
+END
+JimpleDoubleClickStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleDoubleClickStrategy.java
+END
+JimplePartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimplePartitionScanner.java
+END
+JimpleWhitespaceDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleWhitespaceDetector.java
+END
+JimpleOutlineLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleOutlineLabelProvider.java
+END
+JimpleWordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleWordDetector.java
+END
+JimpleConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleConfiguration.java
+END
+ColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/ColorManager.java
+END
+JimpleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleEditor.java
+END
+JimpleDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleDocumentProvider.java
+END
+JimpleOutlineObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleOutlineObject.java
+END
+JimpleOutlineContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleOutlineContentProvider.java
+END
+JimpleContentOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleContentOutlinePage.java
+END
+JimpleScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/editors/JimpleScanner.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization
+END
+SynchronizedRegionFlowPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/SynchronizedRegionFlowPair.java
+END
+SynchronizedRegionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/SynchronizedRegionFinder.java
+END
+LockAllocationBodyTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/LockAllocationBodyTransformer.java
+END
+CriticalSectionVisibleEdgesPred.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/CriticalSectionVisibleEdgesPred.java
+END
+SynchronizedRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/SynchronizedRegion.java
+END
+CriticalSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/CriticalSection.java
+END
+CriticalSectionInterferenceGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/CriticalSectionInterferenceGraph.java
+END
+LockableReferenceAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/LockableReferenceAnalysis.java
+END
+LockAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/LockAllocator.java
+END
+CriticalSectionAwareSideEffectAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/CriticalSectionAwareSideEffectAnalysis.java
+END
+CriticalSectionDataDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/CriticalSectionDataDependency.java
+END
+NewStaticLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/NewStaticLock.java
+END
+CriticalSectionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/CriticalSectionGroup.java
+END
+DeadlockDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/DeadlockDetector.java
+END
+StrayRWFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/StrayRWFinder.java
+END
+DeadlockAvoidanceEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/synchronization/DeadlockAvoidanceEdge.java
+END

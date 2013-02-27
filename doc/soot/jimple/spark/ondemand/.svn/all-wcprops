@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand
+END
+DemandCSPointsTo.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.html
+END
+EverythingHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/EverythingHeuristic.html
+END
+ManualFieldCheckHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/ManualFieldCheckHeuristic.html
+END
+AllocAndContextSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/AllocAndContextSet.html
+END
+DemandCSPointsTo.VarContextAndUp.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.VarContextAndUp.html
+END
+InnerTypesIncrementalHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/InnerTypesIncrementalHeuristic.html
+END
+DemandCSPointsTo.IncomingEdgeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.IncomingEdgeHandler.html
+END
+DemandCSPointsTo.CallSiteAndContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.CallSiteAndContext.html
+END
+DemandCSPointsTo.CallSiteToTargetsMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.CallSiteToTargetsMap.html
+END
+AllocAndContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/AllocAndContext.html
+END
+TerminateEarlyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/TerminateEarlyException.html
+END
+IncrementalTypesHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/IncrementalTypesHeuristic.html
+END
+CallSiteException.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/CallSiteException.html
+END
+DemandCSPointsTo.AllocAndContextCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.AllocAndContextCache.html
+END
+DemandCSPointsTo.VarAndContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.VarAndContext.html
+END
+LazyContextSensitivePointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/LazyContextSensitivePointsToSet.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/package-frame.html
+END
+ManualAndInnerHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/ManualAndInnerHeuristic.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/package-tree.html
+END
+HeuristicType.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/HeuristicType.html
+END
+DemandCSPointsTo.CallingContextSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DemandCSPointsTo.CallingContextSet.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/package-use.html
+END
+WrappedPointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/WrappedPointsToSet.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/package-summary.html
+END
+NothingHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/NothingHeuristic.html
+END
+FieldCheckHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/FieldCheckHeuristic.html
+END
+DotPointerGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/ondemand/DotPointerGraph.html
+END

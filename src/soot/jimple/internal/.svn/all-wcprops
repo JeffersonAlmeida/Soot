@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal
+END
+AbstractInstanceFieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractInstanceFieldRef.java
+END
+JMulExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JMulExpr.java
+END
+JSubExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JSubExpr.java
+END
+AbstractJimpleIntBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractJimpleIntBinopExpr.java
+END
+JEqExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JEqExpr.java
+END
+JUshrExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JUshrExpr.java
+END
+JLengthExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JLengthExpr.java
+END
+JCmplExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JCmplExpr.java
+END
+AbstractFloatBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractFloatBinopExpr.java
+END
+JReturnStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JReturnStmt.java
+END
+AbstractJimpleBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractJimpleBinopExpr.java
+END
+JGeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JGeExpr.java
+END
+AbstractLengthExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractLengthExpr.java
+END
+ConditionExprBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/ConditionExprBox.java
+END
+AbstractBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractBinopExpr.java
+END
+ImmediateBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/ImmediateBox.java
+END
+JTrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JTrap.java
+END
+JEnterMonitorStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JEnterMonitorStmt.java
+END
+AbstractNewExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractNewExpr.java
+END
+AbstractJimpleIntLongBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractJimpleIntLongBinopExpr.java
+END
+VariableBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/VariableBox.java
+END
+JNewExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JNewExpr.java
+END
+JShrExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JShrExpr.java
+END
+JLtExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JLtExpr.java
+END
+JThrowStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JThrowStmt.java
+END
+AbstractNegExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractNegExpr.java
+END
+JOrExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JOrExpr.java
+END
+JAssignStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JAssignStmt.java
+END
+JLookupSwitchStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JLookupSwitchStmt.java
+END
+InvokeExprBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/InvokeExprBox.java
+END
+JNegExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JNegExpr.java
+END
+JNewArrayExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JNewArrayExpr.java
+END
+AbstractVirtualInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractVirtualInvokeExpr.java
+END
+JGotoStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JGotoStmt.java
+END
+JCmpExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JCmpExpr.java
+END
+AbstractUnopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractUnopExpr.java
+END
+JIdentityStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JIdentityStmt.java
+END
+AbstractNewArrayExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractNewArrayExpr.java
+END
+AbstractInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractInvokeExpr.java
+END
+JIfStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JIfStmt.java
+END
+JVirtualInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JVirtualInvokeExpr.java
+END
+JAddExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JAddExpr.java
+END
+RValueBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/RValueBox.java
+END
+JCaughtExceptionRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JCaughtExceptionRef.java
+END
+JInvokeStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JInvokeStmt.java
+END
+JXorExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JXorExpr.java
+END
+AbstractSpecialInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractSpecialInvokeExpr.java
+END
+AbstractInterfaceInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractInterfaceInvokeExpr.java
+END
+JAndExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JAndExpr.java
+END
+JRetStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JRetStmt.java
+END
+JCastExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JCastExpr.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/package.html
+END
+AbstractDefinitionStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractDefinitionStmt.java
+END
+JSpecialInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JSpecialInvokeExpr.java
+END
+JInterfaceInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JInterfaceInvokeExpr.java
+END
+JDivExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JDivExpr.java
+END
+JLeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JLeExpr.java
+END
+JReturnVoidStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JReturnVoidStmt.java
+END
+IdentityRefBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/IdentityRefBox.java
+END
+JNeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JNeExpr.java
+END
+AbstractCastExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractCastExpr.java
+END
+AbstractNewMultiArrayExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractNewMultiArrayExpr.java
+END
+JimpleLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JimpleLocal.java
+END
+AbstractIntBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractIntBinopExpr.java
+END
+JNopStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JNopStmt.java
+END
+JGtExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JGtExpr.java
+END
+JNewMultiArrayExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JNewMultiArrayExpr.java
+END
+JInstanceOfExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JInstanceOfExpr.java
+END
+AbstractStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractStmt.java
+END
+JStaticInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JStaticInvokeExpr.java
+END
+JRemExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JRemExpr.java
+END
+AbstractInstanceInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractInstanceInvokeExpr.java
+END
+JArrayRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JArrayRef.java
+END
+AbstractInstanceOfExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractInstanceOfExpr.java
+END
+StmtBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/StmtBox.java
+END
+JBreakpointStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JBreakpointStmt.java
+END
+JShlExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JShlExpr.java
+END
+JCmpgExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JCmpgExpr.java
+END
+JTableSwitchStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JTableSwitchStmt.java
+END
+AbstractJimpleFloatBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractJimpleFloatBinopExpr.java
+END
+AbstractStaticInvokeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractStaticInvokeExpr.java
+END
+JimpleLocalBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JimpleLocalBox.java
+END
+JExitMonitorStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JExitMonitorStmt.java
+END
+JInstanceFieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/JInstanceFieldRef.java
+END
+AbstractIntLongBinopExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/internal/AbstractIntLongBinopExpr.java
+END

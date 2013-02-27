@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util
+END
+NumberedString.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/NumberedString.html
+END
+LargeNumberedMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/LargeNumberedMap.html
+END
+UnitMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/UnitMap.html
+END
+Numberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Numberer.html
+END
+Switch.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Switch.html
+END
+Debug.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Debug.html
+END
+HashChain.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/HashChain.html
+END
+MapNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/MapNumberer.html
+END
+HashMultiMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/HashMultiMap.html
+END
+BitVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/BitVector.html
+END
+SmallNumberedMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/SmallNumberedMap.html
+END
+Heap.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Heap.html
+END
+SingletonList.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/SingletonList.html
+END
+ArraySet.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/ArraySet.html
+END
+EscapedReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/EscapedReader.html
+END
+StationaryArrayList.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/StationaryArrayList.html
+END
+Chain.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Chain.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/package-summary.html
+END
+NumberedSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/NumberedSet.html
+END
+SharedBitSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/SharedBitSet.html
+END
+JasminOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/JasminOutputStream.html
+END
+Heap.Keys.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Heap.Keys.html
+END
+EscapedWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/EscapedWriter.html
+END
+IdentityHashSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/IdentityHashSet.html
+END
+IntegerNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/IntegerNumberer.html
+END
+Cons.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Cons.html
+END
+IterableSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/IterableSet.html
+END
+ArrayNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/ArrayNumberer.html
+END
+Switchable.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Switchable.html
+END
+IterableMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/IterableMap.html
+END
+StringTools.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/StringTools.html
+END
+SharedBitSetCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/SharedBitSetCache.html
+END
+IterableNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/IterableNumberer.html
+END
+StringNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/StringNumberer.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/package-tree.html
+END
+Numberable.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/Numberable.html
+END
+BitSetIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/BitSetIterator.html
+END
+MultiMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/MultiMap.html
+END
+IterableMap.Mapping_Iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/IterableMap.Mapping_Iterator.html
+END
+PhaseDumper.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/PhaseDumper.html
+END
+DeterministicHashMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/util/DeterministicHashMap.html
+END

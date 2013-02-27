@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/parser
+END
+ParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/parser/ParserException.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/parser/Parser.java
+END
+TokenIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/parser/TokenIndex.java
+END
+parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/parser/parser.dat
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/parser/State.java
+END

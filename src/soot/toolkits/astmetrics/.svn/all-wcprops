@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics
+END
+NumLocalsMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/NumLocalsMetric.java
+END
+AbruptEdgesMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/AbruptEdgesMetric.java
+END
+IdentifiersMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/IdentifiersMetric.java
+END
+MetricData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/MetricData.java
+END
+MetricInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/MetricInterface.java
+END
+ConditionComplexityMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/ConditionComplexityMetric.java
+END
+ComputeASTMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/ComputeASTMetrics.java
+END
+ExpressionComplexityMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/ExpressionComplexityMetric.java
+END
+metricPrettyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/metricPrettyPrinter.java
+END
+ConstructNumbersMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/ConstructNumbersMetric.java
+END
+ClassData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/ClassData.java
+END
+ASTMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/ASTMetric.java
+END
+StmtSumWeightedByDepth.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/astmetrics/StmtSumWeightedByDepth.java
+END

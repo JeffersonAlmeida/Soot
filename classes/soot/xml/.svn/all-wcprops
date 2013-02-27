@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/Key.java
+END
+PosColorAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/PosColorAttribute.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/Attribute.java
+END
+StringAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/StringAttribute.java
+END
+JavaAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/JavaAttribute.java
+END
+ColorAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/ColorAttribute.java
+END
+XMLRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/XMLRoot.java
+END
+XMLNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/XMLNode.java
+END
+TagCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/TagCollector.java
+END
+XMLPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/XMLPrinter.java
+END
+LinkAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/xml/LinkAttribute.java
+END

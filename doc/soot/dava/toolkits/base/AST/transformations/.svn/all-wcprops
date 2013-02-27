@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations
+END
+FinalFieldDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/FinalFieldDefinition.html
+END
+OrAggregatorThree.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/OrAggregatorThree.html
+END
+ExtraLabelNamesRemover.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ExtraLabelNamesRemover.html
+END
+VoidReturnRemover.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/VoidReturnRemover.html
+END
+EmptyElseRemover.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/EmptyElseRemover.html
+END
+UnreachableCodeEliminator.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/UnreachableCodeEliminator.html
+END
+DecrementIncrementStmtCreation.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/DecrementIncrementStmtCreation.html
+END
+CPApplication.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/CPApplication.html
+END
+OrAggregatorTwo.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/OrAggregatorTwo.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/package-summary.html
+END
+BooleanConditionSimplification.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/BooleanConditionSimplification.html
+END
+StrengthenByIf.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/StrengthenByIf.html
+END
+ForLoopCreationHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ForLoopCreationHelper.html
+END
+PushLabeledBlockIn.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/PushLabeledBlockIn.html
+END
+DeInliningFinalFields.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/DeInliningFinalFields.html
+END
+ASTCleanerTwo.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ASTCleanerTwo.html
+END
+StrengthenByIfElse.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/StrengthenByIfElse.html
+END
+IfElseBreaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/IfElseBreaker.html
+END
+ASTCleaner.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ASTCleaner.html
+END
+UselessLabeledBlockRemover.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/UselessLabeledBlockRemover.html
+END
+OrAggregatorFour.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/OrAggregatorFour.html
+END
+SimplifyExpressions.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/SimplifyExpressions.html
+END
+ShortcutIfGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ShortcutIfGenerator.html
+END
+LocalVariableCleaner.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/LocalVariableCleaner.html
+END
+SuperFirstStmtHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/SuperFirstStmtHandler.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/package-tree.html
+END
+RemoveEmptyBodyDefaultConstructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/RemoveEmptyBodyDefaultConstructor.html
+END
+ShortcutArrayInit.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ShortcutArrayInit.html
+END
+SimplifyConditions.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/SimplifyConditions.html
+END
+AndAggregator.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/AndAggregator.html
+END
+ForLoopCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/ForLoopCreator.html
+END
+TypeCastingError.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/TypeCastingError.html
+END
+UselessAbruptStmtRemover.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/UselessAbruptStmtRemover.html
+END
+IfElseSplitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/IfElseSplitter.html
+END
+NewStringBufferSimplification.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/NewStringBufferSimplification.html
+END
+LoopStrengthener.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/LoopStrengthener.html
+END
+OrAggregatorOne.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/OrAggregatorOne.html
+END
+EliminateConditions.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/EliminateConditions.html
+END
+UselessLabelFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/transformations/UselessLabelFinder.html
+END

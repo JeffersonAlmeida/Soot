@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar
+END
+ForwardBranchedFlowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ForwardBranchedFlowAnalysis.java
+END
+ForwardFlowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ForwardFlowAnalysis.java
+END
+ValueUnitPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ValueUnitPair.java
+END
+AbstractFlowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/AbstractFlowAnalysis.java
+END
+BranchedFlowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/BranchedFlowAnalysis.java
+END
+FlowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/FlowAnalysis.java
+END
+ArraySparseSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ArraySparseSet.java
+END
+LocalUnitPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/LocalUnitPair.java
+END
+SimpleLocalDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/SimpleLocalDefs.java
+END
+SimpleLocalUses.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/SimpleLocalUses.java
+END
+BinaryIdentitySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/BinaryIdentitySet.java
+END
+CombinedAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/CombinedAnalysis.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/package.html
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/Pair.java
+END
+AbstractBoundedFlowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/AbstractBoundedFlowSet.java
+END
+BoundedFlowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/BoundedFlowSet.java
+END
+FlowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/FlowSet.java
+END
+FastColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/FastColorer.java
+END
+CombinedDUAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/CombinedDUAnalysis.java
+END
+LocalSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/LocalSplitter.java
+END
+AbstractFlowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/AbstractFlowSet.java
+END
+ArrayPackedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ArrayPackedSet.java
+END
+SmartLocalDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/SmartLocalDefs.java
+END
+BackwardFlowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/BackwardFlowAnalysis.java
+END
+InitAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/InitAnalysis.java
+END
+ArrayFlowUniverse.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ArrayFlowUniverse.java
+END
+GuaranteedDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/GuaranteedDefs.java
+END
+SimpleLiveLocals.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/SimpleLiveLocals.java
+END
+UnusedLocalEliminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/UnusedLocalEliminator.java
+END
+LocalDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/LocalDefs.java
+END
+UnitValueBoxPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/UnitValueBoxPair.java
+END
+IdentityPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/IdentityPair.java
+END
+LocalUses.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/LocalUses.java
+END
+LiveLocals.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/LiveLocals.java
+END
+FlowUniverse.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/FlowUniverse.java
+END
+CollectionFlowUniverse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/CollectionFlowUniverse.java
+END
+LocalPacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/LocalPacker.java
+END
+ObjectIntMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/scalar/ObjectIntMapper.java
+END

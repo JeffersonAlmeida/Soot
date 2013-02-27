@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions
+END
+PedanticThrowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions/PedanticThrowAnalysis.java
+END
+AbstractThrowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions/AbstractThrowAnalysis.java
+END
+UnitThrowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions/UnitThrowAnalysis.java
+END
+TrapTightener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions/TrapTightener.java
+END
+ThrowableSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions/ThrowableSet.java
+END
+ThrowAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/exceptions/ThrowAnalysis.java
+END

@@ -1,0 +1,635 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot
+END
+CharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/CharType.java
+END
+VoidType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/VoidType.java
+END
+JimpleClassProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JimpleClassProvider.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Transform.java
+END
+ClassProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ClassProvider.java
+END
+PatchingChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/PatchingChain.java
+END
+ErroneousType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ErroneousType.java
+END
+ByteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ByteType.java
+END
+IdentityUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/IdentityUnit.java
+END
+AbstractJasminClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractJasminClass.java
+END
+BriefUnitPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/BriefUnitPrinter.java
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Printer.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Main.java
+END
+SootClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootClass.java
+END
+LongType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/LongType.java
+END
+EntryPoints.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/EntryPoints.java
+END
+PackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/PackManager.java
+END
+Kind.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Kind.java
+END
+ClassSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ClassSource.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ArrayType.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Value.java
+END
+SootMethodRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootMethodRefImpl.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Context.java
+END
+AbstractTrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractTrap.java
+END
+MethodContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/MethodContext.java
+END
+Timers.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Timers.java
+END
+RefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/RefType.java
+END
+Trap.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Trap.java
+END
+SootResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootResolver.java
+END
+EquivalentValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/EquivalentValue.java
+END
+UnitBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/UnitBox.java
+END
+AbstractUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractUnit.java
+END
+Unit.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Unit.java
+END
+PointsToSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/PointsToSet.java
+END
+LabeledUnitPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/LabeledUnitPrinter.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/BooleanType.java
+END
+TrapManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/TrapManager.java
+END
+MethodToContexts.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/MethodToContexts.java
+END
+PrimType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/PrimType.java
+END
+AttributesUnitPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AttributesUnitPrinter.java
+END
+HasPhaseOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/HasPhaseOptions.java
+END
+BodyPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/BodyPack.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Type.java
+END
+PointsToAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/PointsToAnalysis.java
+END
+Pack.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Pack.java
+END
+BodyTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/BodyTransformer.java
+END
+Modifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Modifier.java
+END
+UnitPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/UnitPrinter.java
+END
+CoffiClassSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/CoffiClassSource.java
+END
+EquivTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/EquivTo.java
+END
+NormalUnitPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/NormalUnitPrinter.java
+END
+XMLAttributesPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/XMLAttributesPrinter.java
+END
+IntType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/IntType.java
+END
+JavaClassProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JavaClassProvider.java
+END
+StmtAddressType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/StmtAddressType.java
+END
+ScenePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ScenePack.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Timer.java
+END
+UnknownType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/UnknownType.java
+END
+RefLikeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/RefLikeType.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Body.java
+END
+JastAddInitialResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JastAddInitialResolver.java
+END
+CompilationDeathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/CompilationDeathException.java
+END
+EscapeAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/EscapeAnalysis.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/package.html
+END
+MethodSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/MethodSource.java
+END
+AbstractValueBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractValueBox.java
+END
+AbstractSootFieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractSootFieldRef.java
+END
+SourceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SourceLocator.java
+END
+ValueBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ValueBox.java
+END
+SootFieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootFieldRef.java
+END
+SootField.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootField.java
+END
+FastHierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/FastHierarchy.java
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/IntegerType.java
+END
+JimpleClassSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JimpleClassSource.java
+END
+ShortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ShortType.java
+END
+JimpleBodyPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JimpleBodyPack.java
+END
+Hierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Hierarchy.java
+END
+JavaToJimpleBodyPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JavaToJimpleBodyPack.java
+END
+JavaClassSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/JavaClassSource.java
+END
+Immediate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Immediate.java
+END
+SootMethodRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootMethodRef.java
+END
+TypeSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/TypeSwitch.java
+END
+AnySubType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AnySubType.java
+END
+SceneTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SceneTransformer.java
+END
+UnitBoxOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/UnitBoxOwner.java
+END
+Scene.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Scene.java
+END
+CoffiClassProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/CoffiClassProvider.java
+END
+DoubleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/DoubleType.java
+END
+Local.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Local.java
+END
+RadioScenePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/RadioScenePack.java
+END
+MethodOrMethodContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/MethodOrMethodContext.java
+END
+G.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/G.java
+END
+SideEffectTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SideEffectTester.java
+END
+UnknownMethodSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/UnknownMethodSource.java
+END
+ResolutionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ResolutionFailedException.java
+END
+AbstractUnitBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractUnitBox.java
+END
+PhaseOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/PhaseOptions.java
+END
+SootMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/SootMethod.java
+END
+NullType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/NullType.java
+END
+AbstractUnitAllMapTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractUnitAllMapTo.java
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/Transformer.java
+END
+ITypeSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ITypeSwitch.java
+END
+FloatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/FloatType.java
+END
+AbstractUnitPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/AbstractUnitPrinter.java
+END
+ClassMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/ClassMember.java
+END

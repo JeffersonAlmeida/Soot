@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use
+END
+NewStaticLock.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/NewStaticLock.html
+END
+SynchronizedRegion.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/SynchronizedRegion.html
+END
+CriticalSectionInterferenceGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/CriticalSectionInterferenceGraph.html
+END
+DeadlockDetector.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/DeadlockDetector.html
+END
+StrayRWFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/StrayRWFinder.html
+END
+LockableReferenceAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/LockableReferenceAnalysis.html
+END
+DeadlockAvoidanceEdge.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/DeadlockAvoidanceEdge.html
+END
+LockAllocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/LockAllocator.html
+END
+SynchronizedRegionFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/SynchronizedRegionFinder.html
+END
+LockAllocationBodyTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/LockAllocationBodyTransformer.html
+END
+CriticalSectionAwareSideEffectAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/CriticalSectionAwareSideEffectAnalysis.html
+END
+CriticalSectionVisibleEdgesPred.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/thread/synchronization/class-use/CriticalSectionVisibleEdgesPred.html
+END

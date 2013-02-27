@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/package-tree.html
+END
+AnalysisAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/AnalysisAdapter.html
+END
+DepthFirstAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/DepthFirstAdapter.html
+END
+ReversedDepthFirstAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/ReversedDepthFirstAdapter.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/package-summary.html
+END
+Analysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/parser/analysis/Analysis.html
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil
+END
+ObjectVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/ObjectVisitor.java
+END
+IteratorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/IteratorMapper.java
+END
+UnorderedPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/UnorderedPair.java
+END
+DisjointSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/DisjointSets.java
+END
+ArraySetMultiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/ArraySetMultiMap.java
+END
+ArraySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/ArraySet.java
+END
+Stack.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/Stack.java
+END
+ArraySetDupesMultiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/ArraySetDupesMultiMap.java
+END
+ImmutableStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/ImmutableStack.java
+END
+AbstractMultiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/AbstractMultiMap.java
+END
+FIFOQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/FIFOQueue.java
+END
+MultiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/MultiMap.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/Util.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/Mapper.java
+END
+MutablePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/MutablePair.java
+END
+Propagator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/Propagator.java
+END
+ObjWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/ObjWrapper.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/Predicate.java
+END
+HashSetMultiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/HashSetMultiMap.java
+END
+Averager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/genericutil/Averager.java
+END

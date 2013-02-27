@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use
+END
+SimpleMethodLocalObjectsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/SimpleMethodLocalObjectsAnalysis.html
+END
+InfoFlowAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/InfoFlowAnalysis.html
+END
+AbstractDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/AbstractDataSource.html
+END
+CachedEquivalentValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/CachedEquivalentValue.html
+END
+LocalObjectsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/LocalObjectsAnalysis.html
+END
+CallChain.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/CallChain.html
+END
+SmartMethodInfoFlowAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/SmartMethodInfoFlowAnalysis.html
+END
+ClassInfoFlowAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/ClassInfoFlowAnalysis.html
+END
+SmartMethodLocalObjectsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/SmartMethodLocalObjectsAnalysis.html
+END
+CallLocalityContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/CallLocalityContext.html
+END
+ClassLocalObjectsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/ClassLocalObjectsAnalysis.html
+END
+UseFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/UseFinder.html
+END
+FakeJimpleLocal.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/FakeJimpleLocal.html
+END
+SimpleMethodInfoFlowAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/infoflow/class-use/SimpleMethodInfoFlowAnalysis.html
+END

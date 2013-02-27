@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre
+END
+LatestComputation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/LatestComputation.java
+END
+DownSafetyAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/DownSafetyAnalysis.java
+END
+EarliestnessComputation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/EarliestnessComputation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/package.html
+END
+BusyCodeMotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/BusyCodeMotion.java
+END
+UpSafetyAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/UpSafetyAnalysis.java
+END
+SootFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/SootFilter.java
+END
+NotIsolatedAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/NotIsolatedAnalysis.java
+END
+LazyCodeMotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/LazyCodeMotion.java
+END
+DelayabilityAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/scalar/pre/DelayabilityAnalysis.java
+END

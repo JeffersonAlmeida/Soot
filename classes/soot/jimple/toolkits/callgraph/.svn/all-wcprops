@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph
+END
+VirtualCallSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/VirtualCallSite.java
+END
+CallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/CallGraph.java
+END
+SlowCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/SlowCallGraph.java
+END
+Units.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/Units.java
+END
+TopologicalOrderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/TopologicalOrderer.java
+END
+ObjSensContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ObjSensContextManager.java
+END
+CallGraphBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/CallGraphBuilder.java
+END
+InstanceInvokeEdgesPred.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/InstanceInvokeEdgesPred.java
+END
+VirtualCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/VirtualCalls.java
+END
+ContextSensitiveCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ContextSensitiveCallGraph.java
+END
+CallGraphPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/CallGraphPack.java
+END
+ReachableMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ReachableMethods.java
+END
+ContextSensitiveEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ContextSensitiveEdge.java
+END
+UnreachableMethodTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/UnreachableMethodTransformer.java
+END
+ExplicitEdgesPred.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ExplicitEdgesPred.java
+END
+Targets.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/Targets.java
+END
+ContextInsensitiveContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ContextInsensitiveContextManager.java
+END
+ClinitElimAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ClinitElimAnalysis.java
+END
+OnFlyCallGraphBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/OnFlyCallGraphBuilder.java
+END
+ReflectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ReflectionModel.java
+END
+ContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ContextManager.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/Edge.java
+END
+CHATransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/CHATransformer.java
+END
+TransitiveTargets.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/TransitiveTargets.java
+END
+EdgePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/EdgePredicate.java
+END
+Sources.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/Sources.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/Filter.java
+END
+OneCFAContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/OneCFAContextManager.java
+END
+ClinitElimTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/callgraph/ClinitElimTransformer.java
+END

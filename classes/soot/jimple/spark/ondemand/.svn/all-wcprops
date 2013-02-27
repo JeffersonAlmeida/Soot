@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand
+END
+TerminateEarlyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/TerminateEarlyException.java
+END
+AllocAndContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/AllocAndContext.java
+END
+IncrementalTypesHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/IncrementalTypesHeuristic.java
+END
+CallSiteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/CallSiteException.java
+END
+LazyContextSensitivePointsToSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/LazyContextSensitivePointsToSet.java
+END
+ManualAndInnerHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/ManualAndInnerHeuristic.java
+END
+HeuristicType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/HeuristicType.java
+END
+WrappedPointsToSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/WrappedPointsToSet.java
+END
+NothingHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/NothingHeuristic.java
+END
+FieldCheckHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/FieldCheckHeuristic.java
+END
+DotPointerGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/DotPointerGraph.java
+END
+DemandCSPointsTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/DemandCSPointsTo.java
+END
+EverythingHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/EverythingHeuristic.java
+END
+ManualFieldCheckHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/ManualFieldCheckHeuristic.java
+END
+AllocAndContextSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/AllocAndContextSet.java
+END
+InnerTypesIncrementalHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/ondemand/InnerTypesIncrementalHeuristic.java
+END

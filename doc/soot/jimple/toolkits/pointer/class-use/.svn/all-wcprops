@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use
+END
+FieldRWTagger.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/FieldRWTagger.html
+END
+LocalMustAliasAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/LocalMustAliasAnalysis.html
+END
+PASideEffectTester.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/PASideEffectTester.html
+END
+DependenceGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/DependenceGraph.html
+END
+SiteRWSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/SiteRWSet.html
+END
+StmtRWSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/StmtRWSet.html
+END
+DependenceGraph.Edge.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/DependenceGraph.Edge.html
+END
+FullObjectSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/FullObjectSet.html
+END
+DumbPointerAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/DumbPointerAnalysis.html
+END
+SideEffectTagger.UniqueRWSets.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/SideEffectTagger.UniqueRWSets.html
+END
+CastCheckTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/CastCheckTag.html
+END
+CastCheckEliminatorDumper.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/CastCheckEliminatorDumper.html
+END
+CastCheckEliminator.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/CastCheckEliminator.html
+END
+StrongLocalMustAliasAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/StrongLocalMustAliasAnalysis.html
+END
+Union.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/Union.html
+END
+FullRWSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/FullRWSet.html
+END
+LocalMustNotAliasAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/LocalMustNotAliasAnalysis.html
+END
+DependenceTagAggregator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/DependenceTagAggregator.html
+END
+MemoryEfficientRasUnion.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/MemoryEfficientRasUnion.html
+END
+InstanceKey.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/InstanceKey.html
+END
+SideEffectAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/SideEffectAnalysis.html
+END
+DependenceTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/DependenceTag.html
+END
+SideEffectTagger.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/SideEffectTagger.html
+END
+ParameterAliasTagger.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/ParameterAliasTagger.html
+END
+RWSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/RWSet.html
+END
+CodeBlockRWSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/CodeBlockRWSet.html
+END
+FieldRWTagger.UniqueRWSets.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/FieldRWTagger.UniqueRWSets.html
+END
+MethodRWSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/MethodRWSet.html
+END
+UnionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/class-use/UnionFactory.html
+END

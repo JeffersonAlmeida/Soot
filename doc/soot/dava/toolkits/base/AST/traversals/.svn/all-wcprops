@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals
+END
+AllVariableUses.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/AllVariableUses.html
+END
+ClosestAbruptTargetFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/ClosestAbruptTargetFinder.html
+END
+ASTUsesAndDefs.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/ASTUsesAndDefs.html
+END
+CopyPropagation.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/CopyPropagation.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/package-frame.html
+END
+AllDefinitionsFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/AllDefinitionsFinder.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/package-tree.html
+END
+ASTParentNodeFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/ASTParentNodeFinder.html
+END
+LabelToNodeMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/LabelToNodeMapper.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/package-use.html
+END
+InitializationDeclarationShortcut.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/InitializationDeclarationShortcut.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/package-summary.html
+END

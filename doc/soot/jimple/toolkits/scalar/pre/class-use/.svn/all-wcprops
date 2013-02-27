@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use
+END
+UpSafetyAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/UpSafetyAnalysis.html
+END
+SootFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/SootFilter.html
+END
+NotIsolatedAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/NotIsolatedAnalysis.html
+END
+LazyCodeMotion.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/LazyCodeMotion.html
+END
+DelayabilityAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/DelayabilityAnalysis.html
+END
+LatestComputation.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/LatestComputation.html
+END
+DownSafetyAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/DownSafetyAnalysis.html
+END
+EarliestnessComputation.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/EarliestnessComputation.html
+END
+BusyCodeMotion.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/pre/class-use/BusyCodeMotion.html
+END

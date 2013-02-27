@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/util/cfgcmd
+END
+CFGIntermediateRep.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/util/cfgcmd/CFGIntermediateRep.java
+END
+CFGOptionMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/util/cfgcmd/CFGOptionMatcher.java
+END
+CFGGraphType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/util/cfgcmd/CFGGraphType.java
+END
+CFGToDotGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/util/cfgcmd/CFGToDotGraph.java
+END
+AltClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/util/cfgcmd/AltClassLoader.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use
+END
+AllVariableUses.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/AllVariableUses.html
+END
+ClosestAbruptTargetFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/ClosestAbruptTargetFinder.html
+END
+ASTUsesAndDefs.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/ASTUsesAndDefs.html
+END
+CopyPropagation.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/CopyPropagation.html
+END
+AllDefinitionsFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/AllDefinitionsFinder.html
+END
+ASTParentNodeFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/ASTParentNodeFinder.html
+END
+LabelToNodeMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/LabelToNodeMapper.html
+END
+InitializationDeclarationShortcut.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/traversals/class-use/InitializationDeclarationShortcut.html
+END

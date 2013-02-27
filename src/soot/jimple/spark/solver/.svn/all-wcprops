@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver
+END
+EBBCollapser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/EBBCollapser.java
+END
+Propagator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/Propagator.java
+END
+MergeChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/MergeChecker.java
+END
+PropAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/PropAlias.java
+END
+OnFlyCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/OnFlyCallGraph.java
+END
+PropIter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/PropIter.java
+END
+PropMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/PropMerge.java
+END
+TopoSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/TopoSorter.java
+END
+Checker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/Checker.java
+END
+PropCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/PropCycle.java
+END
+PropWorklist.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/PropWorklist.java
+END
+SCCCollapser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/spark/solver/SCCCollapser.java
+END

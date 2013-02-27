@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit
+END
+AnnotationDoubleElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationDoubleElem.java
+END
+SourceLnNamePosTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SourceLnNamePosTag.java
+END
+AbstractHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AbstractHost.java
+END
+LongConstantValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/LongConstantValueTag.java
+END
+Host.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/Host.java
+END
+AnnotationDefaultTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationDefaultTag.java
+END
+LineNumberTagAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/LineNumberTagAggregator.java
+END
+SourceLnPosTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SourceLnPosTag.java
+END
+ThrowCreatedByCompilerTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/ThrowCreatedByCompilerTag.java
+END
+JimpleLineNumberTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/JimpleLineNumberTag.java
+END
+SourceLineNumberTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SourceLineNumberTag.java
+END
+TagPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/TagPrinter.java
+END
+AnnotationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationConstants.java
+END
+AnnotationEnumElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationEnumElem.java
+END
+AnnotationElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationElem.java
+END
+StringConstantValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/StringConstantValueTag.java
+END
+LineNumberTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/LineNumberTag.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/Tag.java
+END
+AttributeValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AttributeValueException.java
+END
+VisibilityAnnotationTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/VisibilityAnnotationTag.java
+END
+SourcePositionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SourcePositionTag.java
+END
+BytecodeOffsetTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/BytecodeOffsetTag.java
+END
+CodeAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/CodeAttribute.java
+END
+DebugTypeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/DebugTypeTag.java
+END
+ConstantValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/ConstantValueTag.java
+END
+JasminAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/JasminAttribute.java
+END
+QualifyingTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/QualifyingTag.java
+END
+StdTagPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/StdTagPrinter.java
+END
+SignatureTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SignatureTag.java
+END
+InnerClassTagAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/InnerClassTagAggregator.java
+END
+LinkTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/LinkTag.java
+END
+InnerClassAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/InnerClassAttribute.java
+END
+AnnotationClassElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationClassElem.java
+END
+SyntheticTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SyntheticTag.java
+END
+VisibilityParameterAnnotationTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/VisibilityParameterAnnotationTag.java
+END
+AnnotationStringElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationStringElem.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/Base64.java
+END
+IntegerConstantValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/IntegerConstantValueTag.java
+END
+StringTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/StringTag.java
+END
+GenericAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/GenericAttribute.java
+END
+TagAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/TagAggregator.java
+END
+ImportantTagAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/ImportantTagAggregator.java
+END
+DoubleConstantValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/DoubleConstantValueTag.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/package.html
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/Attribute.java
+END
+AnnotationFloatElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationFloatElem.java
+END
+KeyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/KeyTag.java
+END
+ColorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/ColorTag.java
+END
+TagManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/TagManager.java
+END
+FirstTagAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/FirstTagAggregator.java
+END
+PositionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/PositionTag.java
+END
+AnnotationIntElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationIntElem.java
+END
+EnclosingTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/EnclosingTag.java
+END
+AnnotationAnnotationElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationAnnotationElem.java
+END
+EnclosingMethodTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/EnclosingMethodTag.java
+END
+AnnotationTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationTag.java
+END
+FloatConstantValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/FloatConstantValueTag.java
+END
+DeprecatedTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/DeprecatedTag.java
+END
+SourceFileTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SourceFileTag.java
+END
+ParamNamesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/ParamNamesTag.java
+END
+LoopInvariantTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/LoopInvariantTag.java
+END
+OuterClassTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/OuterClassTag.java
+END
+AnnotationLongElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationLongElem.java
+END
+AnnotationArrayElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/AnnotationArrayElem.java
+END
+InnerClassTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/InnerClassTag.java
+END
+SyntheticParamTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/tagkit/SyntheticParamTag.java
+END

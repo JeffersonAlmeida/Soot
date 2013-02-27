@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/package-tree.html
+END
+GlobalValueNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/GlobalValueNumberer.html
+END
+ValueGraph.Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/ValueGraph.Node.html
+END
+SimpleGlobalValueNumberer.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/SimpleGlobalValueNumberer.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/package-summary.html
+END
+SimpleGlobalValueNumberer.Partition.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/SimpleGlobalValueNumberer.Partition.html
+END
+ValueGraph.TypeValueWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/ValueGraph.TypeValueWrapper.html
+END
+ValueGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/graph/ValueGraph.html
+END

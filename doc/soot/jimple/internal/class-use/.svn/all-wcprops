@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use
+END
+JInstanceFieldRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JInstanceFieldRef.html
+END
+AbstractIntLongBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractIntLongBinopExpr.html
+END
+AbstractInstanceFieldRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractInstanceFieldRef.html
+END
+JMulExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JMulExpr.html
+END
+JEqExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JEqExpr.html
+END
+JSubExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JSubExpr.html
+END
+AbstractJimpleIntBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractJimpleIntBinopExpr.html
+END
+JUshrExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JUshrExpr.html
+END
+JLengthExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JLengthExpr.html
+END
+JCmplExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JCmplExpr.html
+END
+AbstractFloatBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractFloatBinopExpr.html
+END
+JReturnStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JReturnStmt.html
+END
+AbstractJimpleBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractJimpleBinopExpr.html
+END
+AbstractLengthExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractLengthExpr.html
+END
+JGeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JGeExpr.html
+END
+ConditionExprBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/ConditionExprBox.html
+END
+AbstractBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractBinopExpr.html
+END
+ImmediateBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/ImmediateBox.html
+END
+JTrap.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JTrap.html
+END
+JEnterMonitorStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JEnterMonitorStmt.html
+END
+AbstractNewExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractNewExpr.html
+END
+AbstractJimpleIntLongBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractJimpleIntLongBinopExpr.html
+END
+VariableBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/VariableBox.html
+END
+JNewExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JNewExpr.html
+END
+JShrExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JShrExpr.html
+END
+JLtExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JLtExpr.html
+END
+JThrowStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JThrowStmt.html
+END
+AbstractNegExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractNegExpr.html
+END
+JOrExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JOrExpr.html
+END
+JAssignStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JAssignStmt.html
+END
+JLookupSwitchStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JLookupSwitchStmt.html
+END
+InvokeExprBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/InvokeExprBox.html
+END
+JNegExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JNegExpr.html
+END
+JNewArrayExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JNewArrayExpr.html
+END
+AbstractVirtualInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractVirtualInvokeExpr.html
+END
+JGotoStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JGotoStmt.html
+END
+JCmpExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JCmpExpr.html
+END
+AbstractUnopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractUnopExpr.html
+END
+JIdentityStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JIdentityStmt.html
+END
+AbstractNewArrayExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractNewArrayExpr.html
+END
+AbstractInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractInvokeExpr.html
+END
+JIfStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JIfStmt.html
+END
+JVirtualInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JVirtualInvokeExpr.html
+END
+JAddExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JAddExpr.html
+END
+RValueBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/RValueBox.html
+END
+JInvokeStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JInvokeStmt.html
+END
+JCaughtExceptionRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JCaughtExceptionRef.html
+END
+JXorExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JXorExpr.html
+END
+AbstractSpecialInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractSpecialInvokeExpr.html
+END
+AbstractInterfaceInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractInterfaceInvokeExpr.html
+END
+JAndExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JAndExpr.html
+END
+JRetStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JRetStmt.html
+END
+JCastExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JCastExpr.html
+END
+AbstractDefinitionStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractDefinitionStmt.html
+END
+JInterfaceInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JInterfaceInvokeExpr.html
+END
+JDivExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JDivExpr.html
+END
+JSpecialInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JSpecialInvokeExpr.html
+END
+JLeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JLeExpr.html
+END
+JReturnVoidStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JReturnVoidStmt.html
+END
+IdentityRefBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/IdentityRefBox.html
+END
+JNeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JNeExpr.html
+END
+AbstractCastExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractCastExpr.html
+END
+AbstractNewMultiArrayExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractNewMultiArrayExpr.html
+END
+JimpleLocal.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JimpleLocal.html
+END
+AbstractIntBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractIntBinopExpr.html
+END
+JNopStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JNopStmt.html
+END
+JGtExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JGtExpr.html
+END
+JNewMultiArrayExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JNewMultiArrayExpr.html
+END
+JInstanceOfExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JInstanceOfExpr.html
+END
+AbstractStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractStmt.html
+END
+JStaticInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JStaticInvokeExpr.html
+END
+JRemExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JRemExpr.html
+END
+AbstractInstanceInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractInstanceInvokeExpr.html
+END
+JArrayRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JArrayRef.html
+END
+AbstractInstanceOfExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractInstanceOfExpr.html
+END
+StmtBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/StmtBox.html
+END
+JBreakpointStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JBreakpointStmt.html
+END
+JShlExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JShlExpr.html
+END
+JCmpgExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JCmpgExpr.html
+END
+JTableSwitchStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JTableSwitchStmt.html
+END
+AbstractJimpleFloatBinopExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractJimpleFloatBinopExpr.html
+END
+AbstractStaticInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/AbstractStaticInvokeExpr.html
+END
+JimpleLocalBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JimpleLocalBox.html
+END
+JExitMonitorStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/internal/class-use/JExitMonitorStmt.html
+END

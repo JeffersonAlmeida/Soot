@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use
+END
+PrivateMethodAccMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PrivateMethodAccMethodSource.html
+END
+JavaToJimple.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/JavaToJimple.html
+END
+AnonClassInitMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AnonClassInitMethodSource.html
+END
+MethodFinalsChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/MethodFinalsChecker.html
+END
+BiMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/BiMap.html
+END
+CommaJBB.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/CommaJBB.html
+END
+ClassLiteralMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/ClassLiteralMethodSource.html
+END
+PrivateAccessChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PrivateAccessChecker.html
+END
+JimpleBodyBuilderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/JimpleBodyBuilderFactory.html
+END
+InitialResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/InitialResolver.html
+END
+LocalGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/LocalGenerator.html
+END
+AnonLocalClassInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AnonLocalClassInfo.html
+END
+TypeListBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/TypeListBuilder.html
+END
+IInitialResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/IInitialResolver.html
+END
+ClassLiteralChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/ClassLiteralChecker.html
+END
+LocalUsesChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/LocalUsesChecker.html
+END
+ClassResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/ClassResolver.html
+END
+CastInsertionVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/CastInsertionVisitor.html
+END
+ReturnStmtChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/ReturnStmtChecker.html
+END
+AnonInitBodyBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AnonInitBodyBuilder.html
+END
+NestedClassListBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/NestedClassListBuilder.html
+END
+InnerClassInfoFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/InnerClassInfoFinder.html
+END
+IInitialResolver.Dependencies.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/IInitialResolver.Dependencies.html
+END
+AccessFieldJBB.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AccessFieldJBB.html
+END
+AnonConstructorFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AnonConstructorFinder.html
+END
+PrivateAccessUses.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PrivateAccessUses.html
+END
+PolyglotMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PolyglotMethodSource.html
+END
+StrictFPPropagator.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/StrictFPPropagator.html
+END
+InnerClassInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/InnerClassInfo.html
+END
+PrivateInstancesAvailable.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PrivateInstancesAvailable.html
+END
+AssertClassMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AssertClassMethodSource.html
+END
+SaveASTVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/SaveASTVisitor.html
+END
+ClassDeclFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/ClassDeclFinder.html
+END
+PrivateFieldSetMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PrivateFieldSetMethodSource.html
+END
+AssertStmtChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AssertStmtChecker.html
+END
+PrivateFieldAccMethodSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/PrivateFieldAccMethodSource.html
+END
+AbstractJBBFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AbstractJBBFactory.html
+END
+Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/Util.html
+END
+JimpleBodyBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/JimpleBodyBuilder.html
+END
+LocalClassDeclFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/LocalClassDeclFinder.html
+END
+AbstractJimpleBodyBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/class-use/AbstractJimpleBodyBuilder.html
+END

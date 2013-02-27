@@ -1,0 +1,19 @@
+source.soot.jar = src/,\
+                  generated/jj/,\
+                  generated/options/,\
+                  generated/sablecc/,\
+                  generated/singletons/,\
+                  generated/jastadd/
+bin.includes = META-INF/,\
+               lib/sootclasses-2.4.0.jar,\
+               lib/sootsrc-2.4.0.jar,\
+               lib/coffer.jar,\
+               lib/jasminclasses-2.4.0.jar,\
+               lib/jasminsrc-2.4.0.jar,\
+               lib/java_cup.jar,\
+               lib/JFlex.jar,\
+               lib/pao.jar,\
+               lib/polyglot.jar,\
+               lib/pth.jar,\
+               lib/soot-2.4.0.jar,\
+               soot.jar

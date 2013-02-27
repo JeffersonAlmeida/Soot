@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use
+END
+BitPointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/BitPointsToSet.html
+END
+EmptyPointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/EmptyPointsToSet.html
+END
+HashPointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/HashPointsToSet.html
+END
+PointsToSetInternal.P2SetVisitorInt.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/PointsToSetInternal.P2SetVisitorInt.html
+END
+PointsToSetInternal.P2SetVisitorDefaultTrue.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/PointsToSetInternal.P2SetVisitorDefaultTrue.html
+END
+DoublePointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/DoublePointsToSet.html
+END
+PointsToBitVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/PointsToBitVector.html
+END
+EqualsSupportingPointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/EqualsSupportingPointsToSet.html
+END
+AllSharedHybridNodes.BitVectorLookupMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/AllSharedHybridNodes.BitVectorLookupMap.html
+END
+PointsToSetEqualsWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/PointsToSetEqualsWrapper.html
+END
+AllSharedHybridNodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/AllSharedHybridNodes.html
+END
+SharedListSet.ListNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/SharedListSet.ListNode.html
+END
+P2SetVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/P2SetVisitor.html
+END
+AllSharedListNodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/AllSharedListNodes.html
+END
+P2SetFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/P2SetFactory.html
+END
+SharedListSet.Pair.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/SharedListSet.Pair.html
+END
+HybridPointsToSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/HybridPointsToSet.html
+END
+SortedArraySet.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/SortedArraySet.html
+END
+SharedHybridSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/SharedHybridSet.html
+END
+PointsToSetInternal.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/PointsToSetInternal.html
+END
+SharedListSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/spark/sets/class-use/SharedListSet.html
+END

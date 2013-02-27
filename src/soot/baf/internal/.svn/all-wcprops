@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal
+END
+BStaticGetInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BStaticGetInst.java
+END
+BGotoInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BGotoInst.java
+END
+BOrInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BOrInst.java
+END
+BPrimitiveCastInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BPrimitiveCastInst.java
+END
+BCmpInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BCmpInst.java
+END
+BVirtualInvokeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BVirtualInvokeInst.java
+END
+BIfCmpLeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfCmpLeInst.java
+END
+BIdentityInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIdentityInst.java
+END
+BAddInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BAddInst.java
+END
+BFieldGetInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BFieldGetInst.java
+END
+BafLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BafLocal.java
+END
+BIfCmpNeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfCmpNeInst.java
+END
+BIfGeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfGeInst.java
+END
+BNewArrayInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BNewArrayInst.java
+END
+AbstractInvokeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/AbstractInvokeInst.java
+END
+BXorInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BXorInst.java
+END
+BInstanceCastInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BInstanceCastInst.java
+END
+BAndInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BAndInst.java
+END
+BIfCmpGtInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfCmpGtInst.java
+END
+BInterfaceInvokeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BInterfaceInvokeInst.java
+END
+BDivInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDivInst.java
+END
+BSpecialInvokeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BSpecialInvokeInst.java
+END
+BNopInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BNopInst.java
+END
+BTrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BTrap.java
+END
+BIfLtInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfLtInst.java
+END
+BReturnVoidInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BReturnVoidInst.java
+END
+AbstractBranchInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/AbstractBranchInst.java
+END
+AbstractInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/AbstractInst.java
+END
+BTableSwitchInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BTableSwitchInst.java
+END
+BNewMultiArrayInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BNewMultiArrayInst.java
+END
+AbstractOpTypeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/AbstractOpTypeInst.java
+END
+BPushInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BPushInst.java
+END
+BExitMonitorInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BExitMonitorInst.java
+END
+BRemInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BRemInst.java
+END
+BShlInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BShlInst.java
+END
+BDup1Inst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDup1Inst.java
+END
+BIfCmpEqInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfCmpEqInst.java
+END
+BInstanceOfInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BInstanceOfInst.java
+END
+AbstractRefTypeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/AbstractRefTypeInst.java
+END
+BArrayWriteInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BArrayWriteInst.java
+END
+BStaticInvokeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BStaticInvokeInst.java
+END
+BIfNullInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfNullInst.java
+END
+BIfCmpGeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfCmpGeInst.java
+END
+BDup1_x1Inst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDup1_x1Inst.java
+END
+BDup2_x1Inst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDup2_x1Inst.java
+END
+BCmpgInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BCmpgInst.java
+END
+BMulInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BMulInst.java
+END
+BafLocalBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BafLocalBox.java
+END
+BStoreInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BStoreInst.java
+END
+BSubInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BSubInst.java
+END
+BArrayLengthInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BArrayLengthInst.java
+END
+BIfLeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfLeInst.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/package.html
+END
+BIfNeInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfNeInst.java
+END
+BIfNonNullInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfNonNullInst.java
+END
+BDup2Inst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDup2Inst.java
+END
+BSwapInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BSwapInst.java
+END
+BReturnInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BReturnInst.java
+END
+BIfCmpLtInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfCmpLtInst.java
+END
+BPopInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BPopInst.java
+END
+BArrayReadInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BArrayReadInst.java
+END
+BIfGtInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfGtInst.java
+END
+BUshrInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BUshrInst.java
+END
+BLoadInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BLoadInst.java
+END
+BCmplInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BCmplInst.java
+END
+BJSRInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BJSRInst.java
+END
+BDup1_x2Inst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDup1_x2Inst.java
+END
+BEnterMonitorInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BEnterMonitorInst.java
+END
+BThrowInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BThrowInst.java
+END
+BDup2_x2Inst.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDup2_x2Inst.java
+END
+BStaticPutInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BStaticPutInst.java
+END
+AbstractOpTypeBranchInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/AbstractOpTypeBranchInst.java
+END
+BNewInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BNewInst.java
+END
+BDupInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BDupInst.java
+END
+BIncInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIncInst.java
+END
+BShrInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BShrInst.java
+END
+BFieldPutInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BFieldPutInst.java
+END
+BLookupSwitchInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BLookupSwitchInst.java
+END
+BNegInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BNegInst.java
+END
+BIfEqInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/baf/internal/BIfEqInst.java
+END

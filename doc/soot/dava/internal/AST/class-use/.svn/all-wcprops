@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use
+END
+ASTCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTCondition.html
+END
+ASTSynchronizedBlockNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTSynchronizedBlockNode.html
+END
+ASTSwitchNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTSwitchNode.html
+END
+ASTBinaryCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTBinaryCondition.html
+END
+ASTOrCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTOrCondition.html
+END
+ASTAggregatedCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTAggregatedCondition.html
+END
+ASTLabeledNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTLabeledNode.html
+END
+ASTUnconditionalLoopNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTUnconditionalLoopNode.html
+END
+ASTWhileNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTWhileNode.html
+END
+ASTStatementSequenceNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTStatementSequenceNode.html
+END
+ASTTryNode.container.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTTryNode.container.html
+END
+ASTUnaryCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTUnaryCondition.html
+END
+ASTUnaryBinaryCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTUnaryBinaryCondition.html
+END
+ASTForLoopNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTForLoopNode.html
+END
+ASTControlFlowNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTControlFlowNode.html
+END
+ASTAndCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTAndCondition.html
+END
+ASTDoWhileNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTDoWhileNode.html
+END
+ASTMethodNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTMethodNode.html
+END
+ASTNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTNode.html
+END
+ASTIfNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTIfNode.html
+END
+ASTLabeledBlockNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTLabeledBlockNode.html
+END
+ASTTryNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTTryNode.html
+END
+ASTIfElseNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/AST/class-use/ASTIfElseNode.html
+END

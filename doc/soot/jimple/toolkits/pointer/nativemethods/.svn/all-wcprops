@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods
+END
+JavaLangStrictMathNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangStrictMathNative.html
+END
+JavaLangReflectProxyNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangReflectProxyNative.html
+END
+SunMiscSignalNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/SunMiscSignalNative.html
+END
+JavaLangSystemNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangSystemNative.html
+END
+SunMiscUnsafeNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/SunMiscUnsafeNative.html
+END
+JavaUtilTimeZoneNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilTimeZoneNative.html
+END
+JavaLangSecurityManagerNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangSecurityManagerNative.html
+END
+JavaLangThreadNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangThreadNative.html
+END
+JavaUtilResourceBundleNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilResourceBundleNative.html
+END
+JavaLangFloatNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangFloatNative.html
+END
+SunMiscSignalHandlerNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/SunMiscSignalHandlerNative.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/package-summary.html
+END
+JavaLangRuntimeNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangRuntimeNative.html
+END
+JavaIoObjectOutputStreamNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoObjectOutputStreamNative.html
+END
+JavaIoFileInputStreamNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoFileInputStreamNative.html
+END
+JavaNetInetAddressNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaNetInetAddressNative.html
+END
+JavaNetInetAddressImplNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaNetInetAddressImplNative.html
+END
+JavaIoObjectInputStreamNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoObjectInputStreamNative.html
+END
+JavaSecurityAccessControllerNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaSecurityAccessControllerNative.html
+END
+JavaLangStringNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangStringNative.html
+END
+JavaLangDoubleNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangDoubleNative.html
+END
+JavaUtilJarJarFileNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilJarJarFileNative.html
+END
+JavaUtilZipZipFileNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilZipZipFileNative.html
+END
+JavaLangClassLoaderNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangClassLoaderNative.html
+END
+JavaLangPackageNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangPackageNative.html
+END
+JavaUtilZipCRC32Native.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilZipCRC32Native.html
+END
+JavaIoFileDescriptorNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoFileDescriptorNative.html
+END
+JavaIoFileSystemNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoFileSystemNative.html
+END
+JavaIoObjectStreamClassNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoObjectStreamClassNative.html
+END
+JavaLangThrowableNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangThrowableNative.html
+END
+JavaLangObjectNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangObjectNative.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/package-frame.html
+END
+JavaUtilZipZipEntryNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilZipZipEntryNative.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/package-tree.html
+END
+JavaLangReflectMethodNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangReflectMethodNative.html
+END
+JavaLangReflectFieldNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangReflectFieldNative.html
+END
+JavaLangReflectConstructorNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangReflectConstructorNative.html
+END
+JavaLangReflectArrayNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangReflectArrayNative.html
+END
+NativeMethodClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/NativeMethodClass.html
+END
+JavaLangClassLoaderNativeLibraryNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangClassLoaderNativeLibraryNative.html
+END
+JavaUtilZipInflaterNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaUtilZipInflaterNative.html
+END
+JavaLangClassNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangClassNative.html
+END
+JavaLangShutdownNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaLangShutdownNative.html
+END
+JavaIoFileOutputStreamNative.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/JavaIoFileOutputStreamNative.html
+END
+NativeMethodNotSupportedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/pointer/nativemethods/NativeMethodNotSupportedException.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals
+END
+InitializationDeclarationShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/InitializationDeclarationShortcut.java
+END
+AllVariableUses.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/AllVariableUses.java
+END
+ClosestAbruptTargetFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/ClosestAbruptTargetFinder.java
+END
+ASTUsesAndDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/ASTUsesAndDefs.java
+END
+CopyPropagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/CopyPropagation.java
+END
+AllDefinitionsFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/AllDefinitionsFinder.java
+END
+ASTParentNodeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/ASTParentNodeFinder.java
+END
+LabelToNodeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/toolkits/base/AST/traversals/LabelToNodeMapper.java
+END

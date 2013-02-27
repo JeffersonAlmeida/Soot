@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity
+END
+PurityParamNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityParamNode.java
+END
+PurityGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityGraph.java
+END
+PurityStmtNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityStmtNode.java
+END
+DirectedCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/DirectedCallGraph.java
+END
+PurityGlobalNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityGlobalNode.java
+END
+PurityMethodNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityMethodNode.java
+END
+PurityNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityNode.java
+END
+PurityThisNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityThisNode.java
+END
+PurityEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityEdge.java
+END
+PurityGraphBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityGraphBox.java
+END
+PurityAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityAnalysis.java
+END
+SootMethodFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/SootMethodFilter.java
+END
+PurityIntraproceduralAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityIntraproceduralAnalysis.java
+END
+PurityInterproceduralAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/PurityInterproceduralAnalysis.java
+END
+AbstractInterproceduralAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/purity/AbstractInterproceduralAnalysis.java
+END

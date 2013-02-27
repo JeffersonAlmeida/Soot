@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/analysis
+END
+ReversedDepthFirstAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/analysis/ReversedDepthFirstAdapter.java
+END
+Analysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/analysis/Analysis.java
+END
+AnalysisAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/analysis/AnalysisAdapter.java
+END
+DepthFirstAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/generated/sablecc/soot/jimple/parser/analysis/DepthFirstAdapter.java
+END

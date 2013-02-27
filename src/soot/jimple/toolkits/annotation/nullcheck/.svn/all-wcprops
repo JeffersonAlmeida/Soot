@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck
+END
+NullPointerChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/NullPointerChecker.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/package.html
+END
+NullPointerColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/NullPointerColorer.java
+END
+BranchedRefVarsAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/BranchedRefVarsAnalysis.java
+END
+NullnessAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/NullnessAnalysis.java
+END
+NullCheckEliminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/NullCheckEliminator.java
+END
+RefIntPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/RefIntPair.java
+END
+NullnessAssumptionAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/NullnessAssumptionAnalysis.java
+END
+LocalRefVarsAnalysisWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/annotation/nullcheck/LocalRefVarsAnalysisWrapper.java
+END

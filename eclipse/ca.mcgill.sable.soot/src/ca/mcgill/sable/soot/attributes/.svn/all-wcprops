@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes
+END
+PosColAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/PosColAttribute.java
+END
+SootAttributeJavaSelectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributeJavaSelectAction.java
+END
+SootAttrJimpleIconGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttrJimpleIconGenerator.java
+END
+SootAttributeSelectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributeSelectAction.java
+END
+JimpleAttributesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/JimpleAttributesComputer.java
+END
+SootAttributeResolutionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributeResolutionGenerator.java
+END
+AttributeDomProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/AttributeDomProcessor.java
+END
+SootAttributesJimpleHover.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributesJimpleHover.java
+END
+ISootAttributesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/ISootAttributesHandler.java
+END
+SootAttrJavaIconGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttrJavaIconGenerator.java
+END
+SootAttributesJavaHover.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributesJavaHover.java
+END
+ValueBoxAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/ValueBoxAttribute.java
+END
+AbstractSootAttributesHover.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/AbstractSootAttributesHover.java
+END
+FindMethodResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/FindMethodResolver.java
+END
+SootAttributeFilesReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributeFilesReader.java
+END
+VisManLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/VisManLauncher.java
+END
+ColorAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/ColorAttribute.java
+END
+AbstractAttributesColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/AbstractAttributesColorer.java
+END
+SootAttributeRulerActionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributeRulerActionDelegate.java
+END
+JavaAttributesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/JavaAttributesComputer.java
+END
+AbstractAttributesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/AbstractAttributesComputer.java
+END
+TextAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/TextAttribute.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/Messages.java
+END
+SootAttributeJimpleSelectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributeJimpleSelectAction.java
+END
+attributes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/attributes.properties
+END
+AnalysisKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/AnalysisKey.java
+END
+LinkAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/LinkAttribute.java
+END
+SootAttributesJimpleColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributesJimpleColorer.java
+END
+SootAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttribute.java
+END
+AttributeFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/AttributeFileReader.java
+END
+SootAttributesJavaColorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributesJavaColorer.java
+END
+SootAttributesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/attributes/SootAttributesHandler.java
+END

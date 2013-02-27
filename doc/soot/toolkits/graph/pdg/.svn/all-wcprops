@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg
+END
+EnhancedBlockGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/EnhancedBlockGraph.html
+END
+PDGNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/PDGNode.html
+END
+Region.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/Region.html
+END
+EnhancedUnitGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/EnhancedUnitGraph.html
+END
+PDGNode.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/PDGNode.Type.html
+END
+ProgramDependenceGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/ProgramDependenceGraph.html
+END
+LoopedPDGNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/LoopedPDGNode.html
+END
+RegionAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/RegionAnalysis.html
+END
+ConditionalPDGNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/ConditionalPDGNode.html
+END
+MHGDominatorTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/MHGDominatorTree.html
+END
+PDGRegion.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/PDGRegion.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/package-tree.html
+END
+PDGNode.Attribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/PDGNode.Attribute.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/package-summary.html
+END
+IRegion.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/IRegion.html
+END
+HashMutablePDG.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/HashMutablePDG.html
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast
+END
+JjArrayAccessAssign_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjArrayAccessAssign_c.java
+END
+JjArrayInit_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjArrayInit_c.java
+END
+JjFieldAssign_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjFieldAssign_c.java
+END
+JjNodeFactory_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjNodeFactory_c.java
+END
+JjFieldDecl_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjFieldDecl_c.java
+END
+JjNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjNodeFactory.java
+END
+JjBinary_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjBinary_c.java
+END
+JjCast_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjCast_c.java
+END
+JjLocalAssign_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjLocalAssign_c.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/package.html
+END
+JjAccessField_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjAccessField_c.java
+END
+JjComma_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjComma_c.java
+END
+JjLocalDecl_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjLocalDecl_c.java
+END
+JjReturn_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjReturn_c.java
+END
+JjUnary_c.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/javaToJimple/jj/ast/JjUnary_c.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/mhp/pegcallgraph
+END
+PegCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/mhp/pegcallgraph/PegCallGraph.java
+END
+CheckRecursiveCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/jimple/toolkits/thread/mhp/pegcallgraph/CheckRecursiveCalls.java
+END

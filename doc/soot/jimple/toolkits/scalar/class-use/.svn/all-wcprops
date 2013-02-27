@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use
+END
+PessimisticAvailableExpressionsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/PessimisticAvailableExpressionsAnalysis.html
+END
+EqualLocalsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/EqualLocalsAnalysis.html
+END
+DeadAssignmentEliminator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/DeadAssignmentEliminator.html
+END
+ConditionalBranchFolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/ConditionalBranchFolder.html
+END
+NopEliminator.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/NopEliminator.html
+END
+CopyPropagator.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/CopyPropagator.html
+END
+SlowAvailableExpressions.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/SlowAvailableExpressions.html
+END
+CommonSubexpressionEliminator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/CommonSubexpressionEliminator.html
+END
+AvailableExpressions.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/AvailableExpressions.html
+END
+CommonPrecedingEqualValueAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/CommonPrecedingEqualValueAnalysis.html
+END
+LocalNameStandardizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/LocalNameStandardizer.html
+END
+SlowAvailableExpressionsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/SlowAvailableExpressionsAnalysis.html
+END
+Evaluator.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/Evaluator.html
+END
+FastAvailableExpressions.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/FastAvailableExpressions.html
+END
+LocalCreation.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/LocalCreation.html
+END
+FastAvailableExpressionsAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/FastAvailableExpressionsAnalysis.html
+END
+ToppedSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/ToppedSet.html
+END
+UnreachableCodeEliminator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/UnreachableCodeEliminator.html
+END
+ConstantPropagatorAndFolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/ConstantPropagatorAndFolder.html
+END
+UnconditionalBranchFolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/UnconditionalBranchFolder.html
+END
+EqualUsesAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/scalar/class-use/EqualUsesAnalysis.html
+END

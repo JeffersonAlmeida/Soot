@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use
+END
+DDecrementStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DDecrementStmt.html
+END
+DCmpExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DCmpExpr.html
+END
+DVirtualInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DVirtualInvokeExpr.html
+END
+DAbruptStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DAbruptStmt.html
+END
+DIncrementStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DIncrementStmt.html
+END
+DNewArrayExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DNewArrayExpr.html
+END
+DInstanceFieldRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DInstanceFieldRef.html
+END
+DNewMultiArrayExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DNewMultiArrayExpr.html
+END
+DThisRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DThisRef.html
+END
+DIntConstant.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DIntConstant.html
+END
+DStaticFieldRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DStaticFieldRef.html
+END
+DIdentityStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DIdentityStmt.html
+END
+DNewInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DNewInvokeExpr.html
+END
+DShortcutIf.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DShortcutIf.html
+END
+DNotExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DNotExpr.html
+END
+DInterfaceInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DInterfaceInvokeExpr.html
+END
+DSpecialInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DSpecialInvokeExpr.html
+END
+DVariableDeclarationStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DVariableDeclarationStmt.html
+END
+DNegExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DNegExpr.html
+END
+DShortcutAssignStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DShortcutAssignStmt.html
+END
+DArrayInitValueBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DArrayInitValueBox.html
+END
+DLengthExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DLengthExpr.html
+END
+DCmplExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DCmplExpr.html
+END
+DStaticInvokeExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DStaticInvokeExpr.html
+END
+DAssignStmt.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DAssignStmt.html
+END
+DCmpgExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DCmpgExpr.html
+END
+DArrayInitExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/internal/javaRep/class-use/DArrayInitExpr.html
+END

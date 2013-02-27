@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use
+END
+CPVariable.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/CPVariable.html
+END
+ReachingCopies.LocalPair.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/ReachingCopies.LocalPair.html
+END
+UnreachableCodeFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/UnreachableCodeFinder.html
+END
+CPFlowSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/CPFlowSet.html
+END
+ReachingCopies.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/ReachingCopies.html
+END
+CP.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/CP.html
+END
+ReachingDefs.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/ReachingDefs.html
+END
+StructuredAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/StructuredAnalysis.html
+END
+DavaFlowSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/DavaFlowSet.html
+END
+MustMayInitialize.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/MustMayInitialize.html
+END
+CPTuple.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/CPTuple.html
+END
+CPHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/CPHelper.html
+END
+UnreachableCodeFinder.UnreachableCodeFlowSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/dava/toolkits/base/AST/structuredAnalysis/class-use/UnreachableCodeFinder.UnreachableCodeFlowSet.html
+END

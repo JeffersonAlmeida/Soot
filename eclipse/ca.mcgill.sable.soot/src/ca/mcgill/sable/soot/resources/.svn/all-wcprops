@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources
+END
+SootResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/SootResourceManager.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/Messages.java
+END
+SootPartManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/SootPartManager.java
+END
+EditorActivationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/EditorActivationListener.java
+END
+SootDeltaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/SootDeltaVisitor.java
+END
+resources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/resources.properties
+END
+SootWorkbenchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/resources/SootWorkbenchListener.java
+END

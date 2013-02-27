@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui
+END
+VisManContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/VisManContentProvider.java
+END
+SootOptionsContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootOptionsContentProvider.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/Messages.java
+END
+VisManLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/VisManLabelProvider.java
+END
+PhaseOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/PhaseOptionsDialog.java
+END
+StringOptionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/StringOptionWidget.java
+END
+PopupListSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/PopupListSelector.java
+END
+SootOptionsLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootOptionsLabelProvider.java
+END
+AnalysisKeyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/AnalysisKeyView.java
+END
+SootOutputView.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootOutputView.java
+END
+SootConfigContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootConfigContentProvider.java
+END
+SootOptionsLauncherDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootOptionsLauncherDialog.java
+END
+AnalysisVisManipDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/AnalysisVisManipDialog.java
+END
+AbstractOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/AbstractOptionsDialog.java
+END
+ui.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/ui.properties
+END
+ISootOptionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/ISootOptionWidget.java
+END
+SootConfigLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootConfigLabelProvider.java
+END
+BooleanOptionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/BooleanOptionWidget.java
+END
+OptionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/OptionData.java
+END
+EnableGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/EnableGroup.java
+END
+AnalysisTypeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/AnalysisTypeView.java
+END
+ListOptionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/ListOptionWidget.java
+END
+SootOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootOption.java
+END
+SootConfigManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/SootConfigManagerDialog.java
+END
+MultiOptionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/MultiOptionWidget.java
+END
+KeysLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/KeysLabelProvider.java
+END

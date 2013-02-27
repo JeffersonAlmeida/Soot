@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use
+END
+PurityIntraproceduralAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityIntraproceduralAnalysis.html
+END
+PurityInterproceduralAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityInterproceduralAnalysis.html
+END
+AbstractInterproceduralAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/AbstractInterproceduralAnalysis.html
+END
+PurityParamNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityParamNode.html
+END
+PurityGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityGraph.html
+END
+PurityStmtNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityStmtNode.html
+END
+DirectedCallGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/DirectedCallGraph.html
+END
+PurityGlobalNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityGlobalNode.html
+END
+PurityMethodNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityMethodNode.html
+END
+PurityNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityNode.html
+END
+PurityThisNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityThisNode.html
+END
+PurityEdge.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityEdge.html
+END
+PurityGraphBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityGraphBox.html
+END
+PurityAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/PurityAnalysis.html
+END
+SootMethodFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/annotation/purity/class-use/SootMethodFilter.html
+END

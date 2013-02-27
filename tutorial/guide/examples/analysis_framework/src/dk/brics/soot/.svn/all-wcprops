@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot
+END
+GenHelloWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/GenHelloWorld.java
+END
+RunVeryBusyAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/RunVeryBusyAnalysis.java
+END
+RunLiveAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/RunLiveAnalysis.java
+END

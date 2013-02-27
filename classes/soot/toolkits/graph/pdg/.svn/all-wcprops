@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg
+END
+RegionAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/RegionAnalysis.java
+END
+ConditionalPDGNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/ConditionalPDGNode.java
+END
+MHGDominatorTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/MHGDominatorTree.java
+END
+IRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/IRegion.java
+END
+HashMutablePDG.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/HashMutablePDG.java
+END
+EnhancedBlockGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/EnhancedBlockGraph.java
+END
+PDGRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/PDGRegion.java
+END
+PDGNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/PDGNode.java
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/Region.java
+END
+EnhancedUnitGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/EnhancedUnitGraph.java
+END
+ProgramDependenceGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/ProgramDependenceGraph.java
+END
+LoopedPDGNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/toolkits/graph/pdg/LoopedPDGNode.java
+END

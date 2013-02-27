@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST
+END
+ASTStatementSequenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTStatementSequenceNode.java
+END
+ASTUnaryCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTUnaryCondition.java
+END
+ASTUnaryBinaryCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTUnaryBinaryCondition.java
+END
+ASTForLoopNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTForLoopNode.java
+END
+ASTControlFlowNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTControlFlowNode.java
+END
+ASTDoWhileNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTDoWhileNode.java
+END
+ASTAndCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTAndCondition.java
+END
+ASTMethodNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTMethodNode.java
+END
+ASTNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTNode.java
+END
+ASTIfNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTIfNode.java
+END
+ASTLabeledBlockNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTLabeledBlockNode.java
+END
+ASTTryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTTryNode.java
+END
+ASTIfElseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTIfElseNode.java
+END
+ASTSynchronizedBlockNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTSynchronizedBlockNode.java
+END
+ASTCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTCondition.java
+END
+ASTBinaryCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTBinaryCondition.java
+END
+ASTSwitchNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTSwitchNode.java
+END
+ASTOrCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTOrCondition.java
+END
+ASTAggregatedCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTAggregatedCondition.java
+END
+ASTLabeledNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTLabeledNode.java
+END
+ASTUnconditionalLoopNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTUnconditionalLoopNode.java
+END
+ASTWhileNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/dava/internal/AST/ASTWhileNode.java
+END

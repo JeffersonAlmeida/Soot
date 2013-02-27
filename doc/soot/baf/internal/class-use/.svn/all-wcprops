@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use
+END
+BLookupSwitchInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BLookupSwitchInst.html
+END
+BNegInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BNegInst.html
+END
+BIfEqInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfEqInst.html
+END
+BStaticGetInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BStaticGetInst.html
+END
+BGotoInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BGotoInst.html
+END
+BOrInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BOrInst.html
+END
+BPrimitiveCastInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BPrimitiveCastInst.html
+END
+BCmpInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BCmpInst.html
+END
+BVirtualInvokeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BVirtualInvokeInst.html
+END
+BIfCmpLeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfCmpLeInst.html
+END
+BIdentityInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIdentityInst.html
+END
+BAddInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BAddInst.html
+END
+BFieldGetInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BFieldGetInst.html
+END
+BafLocal.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BafLocal.html
+END
+BIfCmpNeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfCmpNeInst.html
+END
+BIfGeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfGeInst.html
+END
+BNewArrayInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BNewArrayInst.html
+END
+BXorInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BXorInst.html
+END
+BInstanceCastInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BInstanceCastInst.html
+END
+BAndInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BAndInst.html
+END
+BIfCmpGtInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfCmpGtInst.html
+END
+BInterfaceInvokeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BInterfaceInvokeInst.html
+END
+BDivInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDivInst.html
+END
+BSpecialInvokeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BSpecialInvokeInst.html
+END
+BNopInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BNopInst.html
+END
+BTrap.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BTrap.html
+END
+BIfLtInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfLtInst.html
+END
+BReturnVoidInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BReturnVoidInst.html
+END
+AbstractBranchInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/AbstractBranchInst.html
+END
+AbstractInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/AbstractInst.html
+END
+BTableSwitchInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BTableSwitchInst.html
+END
+BNewMultiArrayInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BNewMultiArrayInst.html
+END
+AbstractOpTypeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/AbstractOpTypeInst.html
+END
+BPushInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BPushInst.html
+END
+BExitMonitorInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BExitMonitorInst.html
+END
+BRemInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BRemInst.html
+END
+BShlInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BShlInst.html
+END
+BDup1Inst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDup1Inst.html
+END
+BIfCmpEqInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfCmpEqInst.html
+END
+BInstanceOfInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BInstanceOfInst.html
+END
+AbstractRefTypeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/AbstractRefTypeInst.html
+END
+BArrayWriteInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BArrayWriteInst.html
+END
+BStaticInvokeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BStaticInvokeInst.html
+END
+BIfNullInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfNullInst.html
+END
+BIfCmpGeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfCmpGeInst.html
+END
+BDup1_x1Inst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDup1_x1Inst.html
+END
+BDup2_x1Inst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDup2_x1Inst.html
+END
+BCmpgInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BCmpgInst.html
+END
+BMulInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BMulInst.html
+END
+BafLocalBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BafLocalBox.html
+END
+BStoreInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BStoreInst.html
+END
+BSubInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BSubInst.html
+END
+BArrayLengthInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BArrayLengthInst.html
+END
+BIfLeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfLeInst.html
+END
+BIfNeInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfNeInst.html
+END
+BIfNonNullInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfNonNullInst.html
+END
+BDup2Inst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDup2Inst.html
+END
+BSwapInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BSwapInst.html
+END
+BReturnInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BReturnInst.html
+END
+BIfCmpLtInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfCmpLtInst.html
+END
+BPopInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BPopInst.html
+END
+BArrayReadInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BArrayReadInst.html
+END
+BIfGtInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIfGtInst.html
+END
+BUshrInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BUshrInst.html
+END
+BLoadInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BLoadInst.html
+END
+BCmplInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BCmplInst.html
+END
+BJSRInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BJSRInst.html
+END
+BDup1_x2Inst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDup1_x2Inst.html
+END
+BEnterMonitorInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BEnterMonitorInst.html
+END
+BThrowInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BThrowInst.html
+END
+BDup2_x2Inst.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDup2_x2Inst.html
+END
+BStaticPutInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BStaticPutInst.html
+END
+AbstractOpTypeBranchInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/AbstractOpTypeBranchInst.html
+END
+BNewInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BNewInst.html
+END
+BDupInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BDupInst.html
+END
+BIncInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BIncInst.html
+END
+BShrInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BShrInst.html
+END
+BFieldPutInst.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/baf/internal/class-use/BFieldPutInst.html
+END

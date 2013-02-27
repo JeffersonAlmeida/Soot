@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/shimple/toolkits/scalar
+END
+SConstantPropagatorAndFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/shimple/toolkits/scalar/SConstantPropagatorAndFolder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/shimple/toolkits/scalar/package.html
+END
+SEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/shimple/toolkits/scalar/SEvaluator.java
+END
+ShimpleLocalDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/shimple/toolkits/scalar/ShimpleLocalDefs.java
+END
+ShimpleLocalUses.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/src/soot/shimple/toolkits/scalar/ShimpleLocalUses.java
+END

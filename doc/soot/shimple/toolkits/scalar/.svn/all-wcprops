@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar
+END
+ShimpleLocalDefs.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/ShimpleLocalDefs.html
+END
+ShimpleLocalUses.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/ShimpleLocalUses.html
+END
+SEvaluator.TopConstant.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/SEvaluator.TopConstant.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/package-tree.html
+END
+SEvaluator.BottomConstant.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/SEvaluator.BottomConstant.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/package-summary.html
+END
+SConstantPropagatorAndFolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/SConstantPropagatorAndFolder.html
+END
+SEvaluator.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/SEvaluator.html
+END
+SEvaluator.MetaConstant.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/shimple/toolkits/scalar/SEvaluator.MetaConstant.html
+END

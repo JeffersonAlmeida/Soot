@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use
+END
+Sources.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/Sources.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/Filter.html
+END
+OneCFAContextManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/OneCFAContextManager.html
+END
+ClinitElimTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ClinitElimTransformer.html
+END
+VirtualCallSite.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/VirtualCallSite.html
+END
+SlowCallGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/SlowCallGraph.html
+END
+TopologicalOrderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/TopologicalOrderer.html
+END
+InstanceInvokeEdgesPred.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/InstanceInvokeEdgesPred.html
+END
+CallGraphPack.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/CallGraphPack.html
+END
+ExplicitEdgesPred.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ExplicitEdgesPred.html
+END
+OnFlyCallGraphBuilder.TraceBasedReflectionModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/OnFlyCallGraphBuilder.TraceBasedReflectionModel.html
+END
+ClinitElimAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ClinitElimAnalysis.html
+END
+Edge.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/Edge.html
+END
+CallGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/CallGraph.html
+END
+Units.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/Units.html
+END
+OnFlyCallGraphBuilder.DefaultReflectionModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/OnFlyCallGraphBuilder.DefaultReflectionModel.html
+END
+ObjSensContextManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ObjSensContextManager.html
+END
+CallGraphBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/CallGraphBuilder.html
+END
+VirtualCalls.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/VirtualCalls.html
+END
+ContextSensitiveCallGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ContextSensitiveCallGraph.html
+END
+ReachableMethods.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ReachableMethods.html
+END
+UnreachableMethodTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/UnreachableMethodTransformer.html
+END
+ContextSensitiveEdge.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ContextSensitiveEdge.html
+END
+Targets.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/Targets.html
+END
+ContextInsensitiveContextManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ContextInsensitiveContextManager.html
+END
+OnFlyCallGraphBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/OnFlyCallGraphBuilder.html
+END
+ContextManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ContextManager.html
+END
+ReflectionModel.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/ReflectionModel.html
+END
+CHATransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/CHATransformer.html
+END
+TransitiveTargets.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/TransitiveTargets.html
+END
+EdgePredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jimple/toolkits/callgraph/class-use/EdgePredicate.html
+END

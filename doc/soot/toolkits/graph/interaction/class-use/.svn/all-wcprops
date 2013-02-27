@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use
+END
+InteractionHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use/InteractionHandler.html
+END
+InteractionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use/InteractionEvent.html
+END
+IInteractionConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use/IInteractionConstants.html
+END
+IInteractionController.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use/IInteractionController.html
+END
+IInteractionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use/IInteractionListener.html
+END
+FlowInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/interaction/class-use/FlowInfo.html
+END

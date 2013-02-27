@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast
+END
+JjComma_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjComma_c.html
+END
+JjLocalDecl_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjLocalDecl_c.html
+END
+JjReturn_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjReturn_c.html
+END
+JjUnary_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjUnary_c.html
+END
+JjArrayAccessAssign_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjArrayAccessAssign_c.html
+END
+JjFieldAssign_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjFieldAssign_c.html
+END
+JjArrayInit_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjArrayInit_c.html
+END
+JjNodeFactory_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjNodeFactory_c.html
+END
+JjNodeFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjNodeFactory.html
+END
+JjFieldDecl_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjFieldDecl_c.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/package-tree.html
+END
+JjBinary_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjBinary_c.html
+END
+JjCast_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjCast_c.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/package-summary.html
+END
+JjLocalAssign_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjLocalAssign_c.html
+END
+JjAccessField_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/javaToJimple/jj/ast/JjAccessField_c.html
+END

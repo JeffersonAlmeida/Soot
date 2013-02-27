@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations
+END
+GotoInstrumenter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/GotoInstrumenter.html
+END
+MethodRenamer.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/MethodRenamer.html
+END
+ArithmeticTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/ArithmeticTransformer.html
+END
+CollectJimpleLocals.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/CollectJimpleLocals.html
+END
+New2InitFlowAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/New2InitFlowAnalysis.html
+END
+BuildIntermediateAppClasses.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/BuildIntermediateAppClasses.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/package-frame.html
+END
+CollectConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/CollectConstants.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/package-tree.html
+END
+AddSwitches.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/AddSwitches.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/package-summary.html
+END
+LibraryMethodWrappersBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/LibraryMethodWrappersBuilder.html
+END
+ClassRenamer.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/ClassRenamer.html
+END
+FieldRenamer.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/jbco/jimpleTransformations/FieldRenamer.html
+END

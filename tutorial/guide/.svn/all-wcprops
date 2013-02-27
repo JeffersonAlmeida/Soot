@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide
+END
+cmdline.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/cmdline.txt
+END
+cleanexamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/cleanexamples.sh
+END
+bnf.sty
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/bnf.sty
+END
+tarexamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/tarexamples.sh
+END
+soot.tex
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/soot.tex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/Makefile
+END
+paddle_options.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/paddle_options.txt
+END
+soot.bib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/soot.bib
+END
+runexamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/runexamples.sh
+END

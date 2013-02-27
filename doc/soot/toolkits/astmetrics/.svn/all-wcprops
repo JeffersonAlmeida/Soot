@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics
+END
+ComputeASTMetrics.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/ComputeASTMetrics.html
+END
+metricPrettyPrinter.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/metricPrettyPrinter.html
+END
+StmtSumWeightedByDepth.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/StmtSumWeightedByDepth.html
+END
+ASTMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/ASTMetric.html
+END
+MetricInterface.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/MetricInterface.html
+END
+ConditionComplexityMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/ConditionComplexityMetric.html
+END
+ExpressionComplexityMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/ExpressionComplexityMetric.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/package-tree.html
+END
+ConstructNumbersMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/ConstructNumbersMetric.html
+END
+ClassData.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/ClassData.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/package-summary.html
+END
+NumLocalsMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/NumLocalsMetric.html
+END
+AbruptEdgesMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/AbruptEdgesMetric.html
+END
+MetricData.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/MetricData.html
+END
+IdentifiersMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/astmetrics/IdentifiersMetric.html
+END

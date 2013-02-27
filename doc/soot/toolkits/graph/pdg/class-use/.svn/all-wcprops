@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use
+END
+PDGRegion.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/PDGRegion.html
+END
+EnhancedBlockGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/EnhancedBlockGraph.html
+END
+PDGNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/PDGNode.html
+END
+Region.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/Region.html
+END
+EnhancedUnitGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/EnhancedUnitGraph.html
+END
+PDGNode.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/PDGNode.Type.html
+END
+PDGNode.Attribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/PDGNode.Attribute.html
+END
+ProgramDependenceGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/ProgramDependenceGraph.html
+END
+LoopedPDGNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/LoopedPDGNode.html
+END
+RegionAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/RegionAnalysis.html
+END
+ConditionalPDGNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/ConditionalPDGNode.html
+END
+MHGDominatorTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/MHGDominatorTree.html
+END
+IRegion.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/IRegion.html
+END
+HashMutablePDG.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/doc/soot/toolkits/graph/pdg/class-use/HashMutablePDG.html
+END

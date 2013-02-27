@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses
+END
+VeryBusyExpressions.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses/VeryBusyExpressions.java
+END
+SimpleVeryBusyExpressions.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses/SimpleVeryBusyExpressions.java
+END
+FlowAnalysisTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cinspg/!svn/ver/3754/SafeRefactor/trunk/newsoot/soot/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses/FlowAnalysisTemplate.java
+END
